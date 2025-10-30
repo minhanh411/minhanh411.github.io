@@ -3,3 +3,12 @@ logo: docs/assets/3F5A1036-modified.png
 description: Business Analyst
 #show_downloads: true
 theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-include-cache
+include:
+  - assets/css/style.css
+# Custom CSS
+sass:
+  style: compressed
+
