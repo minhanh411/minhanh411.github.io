@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="/docs/assets/css/style.css">
 # **Portfolio**
 ***
 ## Projects
