@@ -1,16 +1,59 @@
-/* Center and style your social links */
-p.social-links {
+/* assets/css/style.css */
+
+/* --- Profile / logo sizing (robust selectors for many themes) --- */
+/* Constrain large images used as profile or logo */
+img.profile-photo,
+img.profile,
+img.avatar,
+img.site-logo,
+img.logo,
+header img,
+.main img,
+img[src*="3F5A1036-modified"] {
+  max-width: 180px !important;   /* maximum width */
+  height: auto !important;       /* maintain aspect ratio */
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  border-radius: 50% !important; /* make circular */
+}
+
+/* If theme wraps logo in a container, constrain the container too */
+.site-logo,
+.logo,
+.header-logo,
+.header .logo {
+  max-width: 190px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* --- Social links / icons --- */
+p.social-links,
+p.social-icons {
   text-align: center;
   margin-top: 1rem;
   font-weight: 500;
   font-size: 1rem;
 }
 
-p.social-links a {
+p.social-links a,
+p.social-icons a {
   text-decoration: none;
   margin: 0 0.4rem;
 }
 
-p.social-links a:hover {
+p.social-links a:hover,
+p.social-icons a:hover {
   text-decoration: underline;
+}
+
+/* Icon hover effect */
+.social-icons i {
+  transition: transform 0.18s ease, opacity 0.18s ease;
+}
+
+.social-icons i:hover {
+  transform: scale(1.18);
+  opacity: 0.85;
 }
