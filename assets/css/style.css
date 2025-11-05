@@ -1,14 +1,14 @@
-/* assets/css/style.css */
+/* Center and style your social links */
 p.social-links {
   text-align: center;
-  margin-top: 0.75rem;
-  margin-bottom: 1.5rem;
+  margin-top: 1rem;
   font-weight: 500;
+  font-size: 1rem;
 }
 
 p.social-links a {
   text-decoration: none;
-  margin: 0 0.35rem;
+  margin: 0 0.4rem;
 }
 
 p.social-links a:hover {
