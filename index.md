@@ -20,7 +20,7 @@ Personal stories, thoughts, and experiences
 
 ---
 
-**Connect:** 
+**Connect with me** 
 <div style="display:flex;gap:16px;margin-top:8px">
   <a href="https://github.com/minhanh411">GitHub</a>
   <a href="https://linkedin.com/in/www.linkedin.com/in/minhanhnguyen21">LinkedIn</a>
