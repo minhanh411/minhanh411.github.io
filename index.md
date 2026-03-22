@@ -20,4 +20,4 @@ Personal stories, thoughts, and experiences
 
 ---
 
-**Connect:** [GitHub](https://github.com/yourusername) | [LinkedIn](your-link) | [Email](mailto:your@email.com)
+**Connect:** [GitHub](https://github.com/minhanh411) | [LinkedIn](www.linkedin.com/in/minhanhnguyen219) | [Email](mailto:minhanh411@gmail.com)
