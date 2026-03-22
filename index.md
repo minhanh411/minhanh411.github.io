@@ -1,13 +1,6 @@
 ---
 layout: default
 title: Home
----
-
-# Minh Nguyen
-
-Business Analyst, slowly finding my way into Data and ML.
-
-[View My GitHub Profile](https://github.com/minhanh411)
 
 ---
 
