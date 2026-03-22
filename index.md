@@ -1,9 +1,7 @@
-<img width="461" height="19" alt="image" src="https://github.com/user-attachments/assets/ec843115-e88c-417e-9cdc-3ddc0511d4e9" />---
+---
 layout: default
 title: Home
 ---
-
-![Profile Photo](https://minhanh411.github.io/docs/assets/3F5A1036-modified.png)
 
 # Minh Nguyen
 
